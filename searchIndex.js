@@ -15,7 +15,7 @@
 	},{
 		"id": "/index",
 		"name": "Welcome",
-		"text": "welcome to higher edding my corner of the web"
+		"text": "welcome to higher edding karla loya s corner of the web"
 	},{
 		"id": "/projects",
 		"name": "Projects",
