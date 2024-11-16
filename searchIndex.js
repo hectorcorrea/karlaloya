@@ -15,7 +15,7 @@
 	},{
 		"id": "/index",
 		"name": "Welcome",
-		"text": "welcome to higher edding karla loya s corner of the web"
+		"text": "welcome to higher edding karla loya s corner of the web img alt src /public/karla-bw-640x480.jpg /"
 	},{
 		"id": "/projects",
 		"name": "Projects",
@@ -23,7 +23,7 @@
 	},{
 		"id": "/scholarship",
 		"name": "Scholarship",
-		"text": "scholarship some of my work: academia.edu https://hartford.academia.edu/karlaloya google scholar https://scholar.google.com/citations user fm0o9 eaaaaj hl en new directions for institutional research: volume 2017 issue 174 https://onlinelibrary.wiley.com/toc/1536075x/2017/2017/174"
+		"text": "scholarship some of my work: academia.edu https://hartford.academia.edu/karlaloya google scholar https://scholar.google.com/citations user fm0o9 eaaaaj hl en new directions for institutional research: volume 2017 issue 174 https://onlinelibrary.wiley.com/toc/1536075x/2017/2017/174 see also old website http://karlaloya.wordpress.com/"
 	},{
 		"id": "/search",
 		"name": "Search",
