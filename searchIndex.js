@@ -23,7 +23,7 @@
 	},{
 		"id": "/scholarship",
 		"name": "Scholarship",
-		"text": "scholarship some of my work: academia.edu https://hartford.academia.edu/karlaloya google scholar https://scholar.google.com/citations user fm0o9 eaaaaj hl en new directions for institutional research: volume 2017 issue 174 https://onlinelibrary.wiley.com/toc/1536075x/2017/2017/174 see also old website http://karlaloya.wordpress.com/"
+		"text": "scholarship some of my work: academia.edu https://hartford.academia.edu/karlaloya google scholar https://scholar.google.com/citations user fm0o9 eaaaaj hl en new directions for institutional research: volume 2017 issue 174 https://onlinelibrary.wiley.com/toc/1536075x/2017/2017/174 moving towards inclusive university teaching https://2242237.ma3you.cn/html/content show/index.html v 20250213 article id o7koggz / presentation at the 2nd world conference on education and training see also old website http://karlaloya.wordpress.com/"
 	},{
 		"id": "/search",
 		"name": "Search",
